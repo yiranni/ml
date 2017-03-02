@@ -30,4 +30,4 @@ This Jupyter notebook [here's an example](https://github.com/visualizedata/ml/bl
 Compress this notebook into a zip file, along with all the `.pkl` and `.npy` files that were generated in Step 1. There's an example `.zip` file in [the respository]((https://github.com/visualizedata/ml/tree/master/week06)). 
 
 A screen shot of a directory with these contents highlighted:
-![screen shot of file directory](ml/week06/Screen Shot 2017-03-01 at 10.01.51 PM.png)
+![screen shot of file directory]('ml/week06/Screen Shot 2017-03-01 at 10.01.51 PM.png')
