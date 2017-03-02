@@ -19,4 +19,15 @@ For every instance of a class that relies on a `fit` method, you'll store those 
 
 ### Step 2: Evaluate the performance of the various model fits on your test set
 
-Here's a [Jupyter notebook](https://github.com/visualizedata/ml/blob/master/week06/_02_test.ipynb) you can use for guidance. This process is very similar to your work on the training set, with one important difference: 
+Here's a [Jupyter notebook](https://github.com/visualizedata/ml/blob/master/week06/_02_test.ipynb) you can use for guidance. This process is very similar to your work on the training set, with one important difference: for all class instances that involved data transformations and/or model fits, you should be loading the "pickled" instance and only using methods that `transform` or `predict`. In this notebook, you should not be using any methods that `fit` (including methods that also do other things, such as `fit_transform`. Any use of a method that includes the word "fit" will automatically assigned a value of 0 for all performance measures.
+
+The `predict` methods from the pickled model fits can be used to assess the performance on the test data. Performance will almost always be considerably worse on the test set than performance on the training set. 
+
+### Step 3: Prepare your submission. 
+
+This Jupyter notebook [here's an example](https://github.com/visualizedata/ml/blob/master/week06/_03_submission.ipynb) is essentially the same as the notebook you use in Step 2, but it only includes the model fit that gives you the best performance (in this case, using Ridge Regression Classifier). 
+
+Compress this notebook into a zip file, along with all the `.pkl` and `.npy` files that were generated in Step 1. There's an example `.zip` file in [the respository]((https://github.com/visualizedata/ml/tree/master/week06)). 
+
+A screen shot of a directory with these contents highlighted:
+![screen shot of file directory](ml/week06/Screen Shot 2017-03-01 at 10.01.51 PM.png)
