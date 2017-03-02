@@ -32,3 +32,5 @@ Compress this notebook into a zip file, along with all the `.pkl` and `.npy` fil
 A screen shot of a directory with these contents highlighted:
 
 ![screen shot of file directory](https://github.com/visualizedata/ml/raw/master/week06/Screen%20Shot%202017-03-01%20at%2010.01.51%20PM.png)
+
+### Submit the `.zip` file you created in Step 3 to Canvas in "Assignments" no later than 11:59pm on Monday March 6. 
