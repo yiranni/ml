@@ -15,7 +15,7 @@ Here's a [Jupyter notebook](https://github.com/visualizedata/ml/blob/master/week
 5. Use `X` and `y` to fit various models, with various configurations of parameter settings. 
 6. Assess performance on the model fits. 
 
-For every instance of a class that relies on a `fit` method, you'll store those instances in a pickle file for later use (`.pkl`).
+For every instance of a class that relies on a `fit` method, you'll store those instances in a pickle file for later use (`.pkl`). Here's [documentation](http://scikit-learn.org/stable/modules/model_persistence.html) on model persistence, for reference. 
 
 ### Step 2: Evaluate the performance of the various model fits on your test set
 
