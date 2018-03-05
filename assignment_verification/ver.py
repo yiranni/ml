@@ -71,8 +71,8 @@ def submission_checker(fp):
             if f.split('.')[1] not in ft_allowed:
                 raise ValueError('Invalid file type; only .ipynb, .pkl, and .py file extensions permitted')
             if f.split('.')[1] == 'py':
-                if f.split('.')[1] != 'my_measures':
-                    raise ValueError('Invalid .py file; `my_measures.py` is the only .py file permitted')
+                if f.split('.')[0] != 'my_measures':
+                    print('WARNING: Invalid .py file; `my_measures.py` is the only .py file permitted')
 
     check_files()
     
