@@ -1,2 +1,3 @@
 # Machine Learning
-### Spring 2018
+
+### Spring 2019
