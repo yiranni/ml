@@ -23,7 +23,7 @@
 
 ### definitions
 
-definitions.csv
+[definitions.csv](https://github.com/visualizedata/ml/blob/master/week01/metadata/definitions.csv)
 
 ### motivations for taking this course
 
