@@ -1,0 +1,111 @@
+term,definition
+machine learning,Algorithms that learn from data.
+machine learning,"The ability of a computer program to determine patterns from a set of input data, allowing it to later recognize such patterns in new inputs"
+machine learning,capability of a machine to make decisions or predictions based on a set of initial parameters 
+machine learning,Machine learning is the machine which can find patterns in data.
+machine learning,Repetitive loops that create an algorithm eliminating the need for human interaction
+machine learning,Machine learning is a study focusing on improving the effectiveness of machine with codes (Python & R). 
+machine learning,"the ability of machines to do something for humans using algorithms, and patterns/behaviors"
+machine learning,let machines learn their context and knowledge with little human assistance
+machine learning,A method of detecting a model/trend or classifying a feature based on a list of variables from a large data set using computer based algorithms written with statistic formulas. 
+machine learning,"Machine Learning is just that, it is a machine learning through computer visioning, pattern recognition, etc... There is supervised and unsupervised learning. There is a set of training data to train the computer to recognize a pattern, then there is test data to make sure the model is accurate. It is the intersection of coding and statistics. "
+machine learning,Machine learning is setting up a computer with a program that can then continue to develop itself and learn from data it is being fed without further interference of people. 
+machine learning,set up certain schemes to train machines to do complex repetitive jobs
+machine learning,A machine that can learn the pattern bases on the data and model we input in 
+machine learning,"To me, ML is to use automated methods to help ""do"" things on a more efficient or grand scale. i.e. to use the elevator example. Without machine learning, we'd probably need a number of researchers to sit and observe students' elevator habits. And then from there, run a number of complex statistical methods, which they then would manually implement on the elevators. Whereas with ML, we are able to automate that entire process from start to finish. "
+machine learning,Machine learning is the practice of using algorithms and procedures that have the ability to become smarter and update/adapt themselves through data input and user interactions
+machine learning,Understanding the nature of processes happening in the world and organizing them in an effective manner through machine capabilities so as to reduce chaos and increase efficiency of the process. 
+machine learning,models + algorithms that take in existing information in order to make predictions about information that might not yet exist
+machine learning,Algorithm that helps to train a machine faster instead feed it information manually
+machine learning,"A machine's ability to perform tasks without explicit code directing its behavior, but based on patterns found in data input."
+machine learning,"Train the computer to execute different task. For instance, the computer vision is a type of machine learning to train the computer to understand pixel based object. "
+machine learning,"When an algorithm, based on a set of training data, can make a guess about something (i.e. is this an image of a car? or predicting the future fluctuations in the stock market). The accuracy of this guess can change over time as the algorithm is trained on more data (although I think you could say the accuracy benchmark is subjective because it's defined by humans)."
+machine learning,"It's basically about predictive modeling -- based on the past data, using statistical models to make predictions for the decision-making."
+machine learning,"Training the computer to take in large amount of data and think in certain ways in the same time. In some cases, discover surprising  relationships."
+machine learning,When a program can ingest data and adjust itself appropriately. 
+machine learning,"in machine learning, machines learn how to perform a certain task without actually having to hard-code it to them. it is the process through which machines are ""trained""  through data in a supervised or unsupervised manner to do perform in a similar manner to data they have previously not seen before. "
+machine learning,I guess: Machine learning is an umbrella term for algorithmic techniques that use multiple layers of statistical calculations to analyze big data sets. The learning part of the term describes the fact that the through magnitudes of iterations the parameters of the individual statistical calculations are automatically adjusted to achieve a desired result. 
+machine learning,Machine learning is a technology that combines databases and layers of algorithms to execute a set of instructions based on certain parameters and variables.
+machine learning,"A system of gathering data, analyzing it, and using that analysis to better collect data and complete more analysis"
+machine learning,the science of how to train the machine to improve its behavior and performance by going through a lot of data (text or images) to find a pattern and understand it (one way to do it).
+machine learning,A process of developing algorithms to unable machines to learn from their experiences.
+machine learning,"humanized machine, to liberate human from tedious stuff and also augment human. "
+machine learning,"Through providing the machine a huge dataset of input and the result, let the machine learn the rules or relationships behind the input and the result. This can help we some problems whose rules are too much to define or unclear. However, it's a blackbox, which is also a unsolved problem."
+machine learning,"The process in which computational machines are given a ground truth dataset and based on feature detection and object recognition, can ""learn"" to detect those set of features accurately when given a dataset."
+machine learning,"Learning how to approach, use, and practice data"
+machine learning,training the computer to recognize things 
+machine learning,"Machine learning is a methodology in which a neural network is often trained by humans with models to be able to get a new output when the system receives an input (given by the human). The model serves as a role to make the system ""understand"" the inputs in order to achieve an output with new inputs not included in the model."
+machine learning,using an algorithm to solve a goal  
+artificial intelligence,"The combination of various machine-based decision making techniques that lead to sophisticated and human-like actions, decisions, and/or sentiments. "
+artificial intelligence,When something man-made emulates the characteristics of human intelligence.
+artificial intelligence,non-human ability to adapt to environment
+artificial intelligence,A machine's ability to choose based on programmed guidelines or principles 
+artificial intelligence,Artificial Intelligence is the computer which can perform human's skills.
+artificial intelligence,an algorithm that's able to make decisions based off of patterns collected & recognized in the code 
+artificial intelligence,"man-made digital technology made to have/gain (so-called) ""intelligence"""
+artificial intelligence,"human can have only judgement. the highest level goal would be ""dead"" stuff can have self awareness. "
+artificial intelligence,the ability of a machine to make autonomous decisions on a wide variety of topics  
+artificial intelligence,Any type of computer based technology for working with data
+artificial intelligence,Intelligence that does not come from a living organism. 
+artificial intelligence,Artificial intelligence is the computational implementation of a problem solving mechanism that can adapt to new situations without having all possibilities already written into the it. 
+artificial intelligence,"Digital information presented in such a way that it is useful for the user and seems ""intelligent"" "
+artificial intelligence,"a machine or system that behaves a certain way or completes certain tasks based on patterns, data or behaviours directed by a program"
+artificial intelligence,A machine's ability to take what it's learned to perform independently without any prompt or direction to do so.
+artificial intelligence,"Human created machines drives by algorithms inserted, being capable of dealing with affairs/computations that is done by humans, or even more efficiently. "
+artificial intelligence,"Artificial Intelligence is intelligence of machines that resembles human intelligence. In its ultimate form, it could reach super-intelligence and move even past the intelligence of humans. "
+artificial intelligence,"An algorithm is able to make predictions without being explicitly told what to do, just based on training data, and sometimes another adversarial algorithm. But the inner workings of how it arrives at it's guess are not transparent (i.e. in a neural network)"
+artificial intelligence,"I think I would associate AI with machine learning to the extreme. That it is a form of ML that has learned patterns to a great degree (and it is always continuing to learn/observe/extrapolate from patterns) to a point where it begins to act in somewhat expected ways. For example, how some websites have an automated customer service chat. It's learned how to respond to questions in a certain way. "
+artificial intelligence,"computers ""making decisions"" in ways that are not directly coded by a human"
+artificial intelligence,AI attempts to explore certain patterns hidden behind the everyday behaviors of people in order to bring commercial benefit or to improve the quality of living.
+artificial intelligence,Intelligence based on algorithm
+artificial intelligence,"A term used in the media to convey the capabilities of ML in a dramatic way, enticing comparisons with the human psyche"
+artificial intelligence,Curated consciousness that formed from information that it is fed to
+artificial intelligence,"AI is more into robotics (maybe) and work with human characteristics like driving, speaking and thinking.  "
+artificial intelligence,Understanding processes in the nature through the power of visuals captured with a camera and organizing them to reduce chaos and increase efficiency in the systems or processes. 
+artificial intelligence,AI is a machine/robot that learn things by machine learning  
+artificial intelligence,Let machine do something like human through whether telling machine the rules or machine learning. 
+artificial intelligence,Any kind of intelligence infused by artificial means (any intelligence that does not exist naturally)
+artificial intelligence,"If machine learning is the ability or the process of a piece of software to learn something new or do something from or with data it is being fed into it, artificial intelligence is the 'body of knowledge' that results from this process. It consists of the adaptability of the software to possible outliers or new data. "
+artificial intelligence,"the ability of computers, with a set of algorithms, give an output of reason and responses that resembles ""intelligence"""
+artificial intelligence,intelligence that realized by codes
+artificial intelligence,Artificial Intelligence is any system that has been coded in order to offer an output when the human gives an input which can be trained or untrained but it's following a certain defined parameters.
+artificial intelligence,A system able to have consciousness and reasoning to perform tasks.
+artificial intelligence,"AI is to create something has intelligent. self contain, smart,. It has consciousness."
+artificial intelligence,"A knowledge based on data of past experience, which can be coded and functioned with non-organic machines "
+kitty whiskers,"The hairs that emerge from a cat's face, used to sense their immediate surroundings. "
+kitty whiskers,something that makes you feel touched.
+kitty whiskers,Motion sensors for a cat
+kitty whiskers,the whiskers of a kitty. :)
+kitty whiskers,Have no idea 
+kitty whiskers,kitty whiskers are sensors 
+kitty whiskers,I have no ideas.
+kitty whiskers,It's a kind of drug. (jk)
+kitty whiskers,The whiskers of a cat. Alternative answer: What?
+kitty whiskers,cat face hairs
+kitty whiskers,Kitty Whiskers are antennas with sensors for a cat to navigate in space. 
+kitty whiskers,A kitty that whisk.
+kitty whiskers,a kind of sensors (?)
+kitty whiskers,The very sensitive and long hairs that grow on a kitty's upper lip. 
+kitty whiskers,"string-like pieces that extend from a kitty's face to improve spacial awareness and cuteness
+"
+kitty whiskers,cat's hair form face
+kitty whiskers,A whiskey-based drink popular amongst cat ladies
+kitty whiskers,A car's mustache which is made up of distinct hairs instead of hair clumps. 
+kitty whiskers,Ability of machines to sense the environment?
+kitty whiskers,"Long stiff hair-looking fur that grows around cat's nose area, usually used to detect obstetricals ??? "
+kitty whiskers,one kind of hair like tissues that used by cat to sense distance
+kitty whiskers,long sensitive hair follicles growing from a cat's face in order to get a better sense of their surroundings. 
+kitty whiskers,"kitty feelers that allow kitties to ""see"" their environment"
+kitty whiskers,The tickling devices that woke me up this morning
+kitty whiskers,"ultra long string beside cats' mouth. once touched, they are annoyed."
+kitty whiskers,cat satellites that extend from their face
+kitty whiskers,Don't know what is kitty whiskers. somewhat relate to cat??????? 
+kitty whiskers,"An element attached to a being, in this case a young cat, that senses the boundaries of its surroundings by touching/sensing/colliding with them."
+kitty whiskers,"My only association with that term comes from whiskers of an actual cat. Though I'm sure in the context of this course, it refers to something entirely cooler! I'm excited to see what it actually does mean!"
+kitty whiskers,Biological appendages added to the feline's face and chin for sensory input in order to gain information about its surroundings based on vibrations within its environment.
+kitty whiskers,Cat's sensors
+kitty whiskers,The few long hairs growing from cats' mouth areas. It is said that they could be used as a measuring tool for cats to learn about size of objects
+kitty whiskers,natural hair on kittens are called Kitty whiskers
+kitty whiskers,a sensory tool for cats to detect potentially harmful things around them
+kitty whiskers,The sensors on cat.
+kitty whiskers,"It's kind of like a probe, gauging whether the widith of a gap is large enough to go through."
