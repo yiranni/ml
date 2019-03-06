@@ -1,7 +1,7 @@
 
 # Verification of ML Assigment 1 submission file (.zip)
 
-The `ver.py` script in this repository runs tests on your [ML Assignment 1](https://docs.google.com/document/d/1WGYw99e5q6j5V0Zrf2HveagU6URt_kVvdR8B9HYQ99E/edit?usp=sharing) submission file (.zip) to verify it meets the [submission requirements](https://github.com/visualizedata/ml/blob/master/week06/README.md). 
+The `ver.py` script in this repository runs tests on your [ML Assignment 1](https://docs.google.com/document/d/1WGYw99e5q6j5V0Zrf2HveagU6URt_kVvdR8B9HYQ99E/edit?usp=sharing) submission file (.zip) to verify it meets the submission requirements. 
 
 ## Instructions for using this script to test your submission .zip file:
 
