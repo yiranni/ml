@@ -8,3 +8,6 @@
 
 [Course metadata](https://github.com/visualizedata/ml/tree/master/week01/metadata)
 
+## ML Assignment 1
+
+A full iteration on this assignment (to be used as a starting point for your own submission) is available in the [**week 7 materials**](https://github.com/visualizedata/ml/tree/master/week07/). It includes an example submission, which must be a `.zip` with various criteria defined in the assignment. 
