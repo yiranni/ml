@@ -25,12 +25,14 @@ The `predict` methods from the pickled model fits can be used to assess the perf
 
 ### Step 3: Prepare your submission. 
 
-This Jupyter notebook -- [here's an example](https://github.com/visualizedata/ml/blob/master/week07/_03_submission.ipynb) -- is essentially the same as the notebook you use in Step 2, but it only includes the model fit that gives you the best performance (in this case, using Ridge Regression Classifier). 
+This Jupyter notebook -- [here's an example](https://github.com/visualizedata/ml/blob/master/week07/_03_submission_example.ipynb) -- is essentially the same as the notebook you use in Step 2, but it only includes the model fit that gives you the best performance (in this case, using Ridge Regression Classifier). 
 
 Compress this notebook into a zip file, along with the relevant `.pkl` and files that were generated in Step 1. There's an example `.zip` file -- `submission_01.zip` -- in this repository. 
 
 A screen shot of a directory with these contents highlighted:
 
 ![screen shot of file directory](https://github.com/visualizedata/ml/raw/master/week07/example_submission/files_ss.png)
+
+[[**see full submission example here**](https://github.com/visualizedata/ml/tree/master/week07/example_submission)]
 
 ### Submit the `.zip` file you created in Step 3 to Canvas in "Assignments" no later than 11:00pm on Sunday March 10. 
