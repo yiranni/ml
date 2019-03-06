@@ -2,7 +2,7 @@
 
 ### Step 0: Create randomly selected training and test subsets
 
-This is a task you only need to do once. The training and test sets are saved as CSV files for later use. Here's a [Jupyter notebook](https://github.com/visualizedata/ml/blob/master/week07/_00_split.ipynb) you can use for guidance. In the third code cell, the `random_state` parameter needs an integer; any integer will do (I recommend the age of your favorite artist). This `random_state` parameter will control the randomness for reproducibility of the results, allowing you to get exactly the same training and test sets every time you run this. 
+This is a task you only need to do once. The training and test sets are saved as CSV files for later use. Here's a [Jupyter notebook](https://github.com/visualizedata/ml/blob/master/week06/_00_split.ipynb) you can use for guidance. In the third code cell, the `random_state` parameter needs an integer; any integer will do (I recommend the age of your favorite artist). This `random_state` parameter will control the randomness for reproducibility of the results, allowing you to get exactly the same training and test sets every time you run this. 
 
 ### Step 1: Train models on the training set
 
