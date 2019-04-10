@@ -1,14 +1,13 @@
-# starter code and guidance for ML assignment 3
+# starter code and guidance for ML assignment 3, option 2
 
 ## Due dates:
 
-* Iteration 1: April 23  
-* Iteration 2: April 30  
-* Final: May 7  
+* Iteration 1: April 21, 11pm  
+* Final: May 5, 11pm  
 
 ## Assignment description 
 
-You are going to use [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) to cluster a set of images **on their metadata.** The measure of success is subjective; you know you have chosen the right features and number of clusters when the images in each cluster "seem" like they belong together. [Big Bird knows a thing or two about this](https://www.youtube.com/watch?v=ueZ6tvqhk8U). 
+You are going to use [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) to cluster a set of images **on their metadata.** The measure of success is subjective; you know you have chosen the right features and number of clusters when the images in each cluster "seem" like they belong together. 
 
 #### The images
 
@@ -20,7 +19,7 @@ Although you are clustering ***images,*** you will be clustering on their metada
 
 #### Starter code
 
-A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/cluster_starter.ipynb) is included to give you a jump start on:  
+A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/option_2/cluster_starter.ipynb) is included to give you a jump start on:  
 
 * reading the metadata  
 * subsetting features from the full set of metadata  

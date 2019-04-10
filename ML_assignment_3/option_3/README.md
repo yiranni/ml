@@ -1,22 +1,21 @@
-# starter code and guidance for ML assignment 3
+# starter code and guidance for ML assignment 3, option 3
 
 ## Due dates:
 
-* Iteration 1: April 23  
-* Iteration 2: April 30  
-* Final: May 7  
+* Iteration 1: April 21, 11pm  
+* Final: May 5, 11pm  
 
 ## Assignment description 
 
-You are going to use [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) to cluster a set of images **on their metadata.** The measure of success is subjective; you know you have chosen the right features and number of clusters when the images in each cluster "seem" like they belong together. [Big Bird knows a thing or two about this](https://www.youtube.com/watch?v=ueZ6tvqhk8U). 
+You are going to use [KMeans](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) to cluster data on 6,104 food recalls (because of food poisoning outbreaks) **on text describing the reason (specific food items) for the recall.** The measure of success is subjective; you know you have chosen the right features and number of clusters when the food items each cluster "seem" like they belong together. 
 
-#### The images
+#### The data and goal
 
-This set of images represents more than 400 works of fine art from museum collections and galleries across several countries, curated and analyzed for inspiration and information on effective ways to visually communicate uncertainty, ambiguity, and vulnerability. The selected artworks were chosen for their unique ability to convey ***uncertainty*** using a range of approaches and techniques. The images are being used to inspire better design of visual representations of uncertainty in data, because [traditional methods and techniques aren't working very well](https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty).  
+The description of each recall food item is verbose; e.g.: 
 
-#### Metadata and images
+> River Ranch brand Diced Grn Cabbage w/Color, 4 x 5lb bag, UPC: n/a; Product is a salad item; bagged in clear polyethylene film (foodservice) and polypropylene/polyethylene (retail). Refrigerate and consume within Best By date. Product is processed and packaged by River Ranch Fresh Foods, LLC Salinas, CA
 
-Although you are clustering ***images,*** you will be clustering on their metadata--not the characteristics of the images themselves. *NOTE: you may optionally include image characteristics, but this is not expected.* The metadata is contained in a [`csv` file in this repository](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/cluster_images.csv). Column descriptions and measurements are [also contained in this repository](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/contents-of-cluster_images.csv); a [PDF elaborates on the most important image attributes](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/ML%20bertin%20visual%20variables%20definitions.pdf). Thumbnails of the [images are also included](https://github.com/visualizedata/ml/tree/master/ML_assignment_3/img_small). 
+However, this does not allow for summarization by broader category (e.g., "meats," "vegetables"). Depending on how you decide to approach the problem, you might end up with large, broad clusters such as "meats," or smaller, specific clusters such as "bagged lettuces." It's up to you to decide what would be most useful. 
 
 #### Starter code
 
