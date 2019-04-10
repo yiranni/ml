@@ -15,11 +15,11 @@ The description of each recall food item is verbose; e.g.:
 
 > River Ranch brand Diced Grn Cabbage w/Color, 4 x 5lb bag, UPC: n/a; Product is a salad item; bagged in clear polyethylene film (foodservice) and polypropylene/polyethylene (retail). Refrigerate and consume within Best By date. Product is processed and packaged by River Ranch Fresh Foods, LLC Salinas, CA
 
-However, this does not allow for summarization by broader category (e.g., "meats," "vegetables"). Depending on how you decide to approach the problem, you might end up with large, broad clusters such as "meats," or smaller, specific clusters such as "bagged lettuces." It's up to you to decide what would be most useful. 
+However, this does not allow for summarization by broader category (e.g., "meats," "vegetables"). Depending on how you decide to approach the problem, you might end up with large, broad clusters such as "vegetables," or smaller, specific clusters such as "bagged lettuces." It's up to you to decide what would be most useful. 
 
 #### Starter code
 
-A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/cluster_starter.ipynb) is included to give you a jump start on:  
+A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_assignment_3/option_3/starter_code.ipynb) is included to give you a jump start on:  
 
 * reading the metadata  
 * subsetting features from the full set of metadata  
