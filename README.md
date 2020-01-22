@@ -1,13 +1,14 @@
-# Machine Learning, Spring 2019
+# Machine Learning, Spring 2020
 
-[[syllabus](https://docs.google.com/document/d/1dBZTbvqS-zPvCa4CohuY87bNrdHls7QOJOtS61eZxLE/edit?usp=sharing)] *newschool.edu access only*
+[[syllabus](https://docs.google.com/document/d/1RSUjPPu9cHtTA_8s650-7XTAfLRsCuN_5tqhjQHdcP0/edit?usp=sharing)] *newschool.edu access only*
 
 ### Week One
 
-[Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
+[[slides](https://docs.google.com/presentation/d/1HEu4j0g5Z6XfItqdRBwlk9DfoEyEShYo_vtr37zbgQ0/edit?usp=sharing)] *newschool.edu access only*
 
-[Course metadata](https://github.com/visualizedata/ml/tree/master/week01/metadata)
+#### Defining Machine Learning
 
-## ML Assignment 1
 
-A full iteration on this assignment (to be used as a starting point for your own submission) is available in the [**week 7 materials**](https://github.com/visualizedata/ml/tree/master/week07/). It includes an example submission, which must be a `.zip` with various criteria defined in the assignment. 
+
+[**Demo:** Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
+
