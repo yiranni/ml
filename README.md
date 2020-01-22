@@ -8,15 +8,9 @@
 
 #### Defining Machine Learning
 
-What is "machine learning?" 
-
-1. [Define "machine learning" and introduce yourself](https://forms.gle/pB2TF28YsHkW2fty7)  
-2. [Define "artificial intelligence"](https://forms.gle/VnWSK6EJyVYU32jP8)  
-3. [Define "kitty whiskers"](https://forms.gle/eYGpoe2iziQkpvXaA)  
-
+What is "machine learning?" See our definitions [here](https://github.com/visualizedata/ml/tree/master/week01/metadata). 
 
 #### Demo
 
 [Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
 
-*Optional: Follow along with [the demo in Google Colaboratory](https://drive.google.com/file/d/1buLrlVOK92Ok0NSc03zD75Qyh-jnwsfx/view?usp=sharing)* 
