@@ -8,7 +8,10 @@
 
 #### Defining Machine Learning
 
+What is "machine learning?" 
 
+#### Demo
 
-[**Demo:** Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
+[Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
 
+*Optional: Follow along with [the demo in Google Colaboratory](https://drive.google.com/file/d/1buLrlVOK92Ok0NSc03zD75Qyh-jnwsfx/view?usp=sharing)* 
