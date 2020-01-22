@@ -10,6 +10,9 @@
 
 What is "machine learning?" 
 
+1. [Define "machine learning" and introduce yourself](https://forms.gle/pB2TF28YsHkW2fty7)  
+
+
 #### Demo
 
 [Getting to know Python](https://github.com/visualizedata/ml/blob/master/week01/intro_python.ipynb) (.ipynb)
