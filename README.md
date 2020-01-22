@@ -12,6 +12,7 @@ What is "machine learning?"
 
 1. [Define "machine learning" and introduce yourself](https://forms.gle/pB2TF28YsHkW2fty7)  
 2. [Define "artificial intelligence"](https://forms.gle/VnWSK6EJyVYU32jP8)  
+3. [Define "kitty whiskers"](https://forms.gle/eYGpoe2iziQkpvXaA)  
 
 
 #### Demo
